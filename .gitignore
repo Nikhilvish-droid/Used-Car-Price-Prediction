@@ -1,0 +1,6 @@
+venv/
+.ipynb_checkpoints/
+.virtual_documents/
+anaconda_projects/
+catboost_info/
+__pycache__/
